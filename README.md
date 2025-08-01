@@ -26,11 +26,11 @@ This project presents an interactive **HR Analytics Dashboard** developed using 
 - Supports faster, data-driven HR decisions
 - Can scale for real-world enterprise HR datasets (10K+ records)
 
-## 📁 Files Included
+
 
 
 ## 📸 Dashboard Preview
-
+https://github.com/ayushsharma893/Data-Preprocessing-Exploratory-Data-Analysis-Python-/blob/main/HR%20Analystic%20Dashboard.png
 ---
 
 
